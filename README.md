@@ -3,6 +3,7 @@
 > # 🚧 Coming Soon 🚧
 >
 > ### A new version of G<sup>2</sup>RINS is currently in development — stay tuned!
+> ### ⭐ Watch or star this repository to be notified when G<sup>2</sup>RINS launches!
 
 ---
 
@@ -23,4 +24,4 @@ While G<sup>2</sup>RINS is under development, you can explore the related G-BigS
 
 ---
 
-> ### ⭐ Watch or star this repository to be notified when G<sup>2</sup>RINS launches!
+
